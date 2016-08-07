@@ -1,1 +1,3 @@
 # drojour
+
+Sync from MacMini;
